@@ -1,5 +1,5 @@
 # AULAGIT
-##Iniciando Projeto GIT
+## Iniciando Projeto GIT
 - Repositório Local
 - Repositório Remoto
 - git config -- global user.name "(nome)"
