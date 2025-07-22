@@ -13,4 +13,9 @@ Faz umas coisas ai
 -git commit -m "(mensagem do commit)"
 ## Push
 -git push  origin main | origin master
+## Clone, Fetch e Pull
+-git clone (repositorio)
+-git fetch
+-git status
+-git pull
 
